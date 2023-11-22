@@ -1,6 +1,6 @@
 # Task 1. Natural Language Processing. Named entity recognition
 
-- Link to task data in Google Drive: (https://drive.google.com/drive/folders/1Bh-kk8O1iyXPoo4yCGq_EdtgnvSUftOX?usp=sharing)
+- Link to task data in Google Drive: https://drive.google.com/drive/folders/1Bh-kk8O1iyXPoo4yCGq_EdtgnvSUftOX?usp=sharing
 
 ### Dataset preparation:
 For the NER task, it is crucial to introduce different classes apart from the class for which the model 

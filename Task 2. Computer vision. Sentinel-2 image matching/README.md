@@ -1,6 +1,6 @@
 # Task 2. Computer vision. Sentinel-2 image matching
 
-- Link to task data in Google Drive: (https://drive.google.com/drive/folders/1YQX_7o9mRmvRewT-9NPjFEDCLL5slzZT?usp=sharing)
+- Link to task data in Google Drive: https://drive.google.com/drive/folders/1YQX_7o9mRmvRewT-9NPjFEDCLL5slzZT?usp=sharing
 
 ### Dataset preparation:
 For dataset generation, I log in to Sentinel Hub and configure requests for extracting satellite 
