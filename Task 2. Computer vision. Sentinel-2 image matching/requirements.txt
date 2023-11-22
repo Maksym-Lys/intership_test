@@ -1,0 +1,7 @@
+Python==3.10.13
+matplotlib==3.8.0
+numpy==1.26.0
+sentinelhub==3.9.4
+Pillow==10.0.1
+torch==2.1.1
+opencv-python==4.8.1.78
