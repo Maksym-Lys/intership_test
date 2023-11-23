@@ -3,7 +3,7 @@
 - Link to task data in Google Drive: https://drive.google.com/drive/folders/1YQX_7o9mRmvRewT-9NPjFEDCLL5slzZT?usp=sharing
 
 ### Dataset preparation:
-For dataset generation, I log in to Sentinel Hub and configure requests for extracting satellite 
+For dataset generation, I log in to [Sentinel Hub](https://www.sentinel-hub.com/) and configure requests for extracting satellite 
 images in the desired season and location. I download images for each season in 10 locations, 
 totaling 40 images. Each image has a size of 2500x2500 pixels, so I split each image into 100 
 subimages sized 250x250.
